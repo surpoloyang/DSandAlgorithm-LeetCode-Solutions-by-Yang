@@ -1,4 +1,4 @@
-# LeetCode-Solutions-by-Yang
+# DSandAlgorithm-LeetCode-Solutions-by-Yang
 **本仓库包含：**
 
 ①我在学习数据结构与算法所做笔记；
